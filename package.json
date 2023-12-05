@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "dev": "python manage.py runserver",
+        "watch:css": "npx tailwindcss -i ./src/input.css -o ./static/css/output.css --watch",
+        "build:css": "postcss static/css/styles.css -o static/css/main.css"
+
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.3.6"
+    }
+}

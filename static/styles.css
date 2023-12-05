@@ -1,0 +1,5 @@
+/* static/css/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* Alte importuri sau stiluri personalizate pot fi adăugate mai jos */
