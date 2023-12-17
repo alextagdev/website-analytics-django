@@ -34,7 +34,7 @@ pip install beautifulsoup4
 
 ### Start
 python manage.py runserver
-Open your web browser and go to http://127.0.0.1:8000/web/ to access the web statistics application.
+Open your web browser and go to http://127.0.0.1:8000/web/ and after your have to input your website to access the web statistics application, als you will see a list with all websites submited already
 
 Features
 Check IP address, title, description, and image content of a website.
